@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "dist/",
+    "baseUrl": "./src",
+    "esModuleInterop": true,
+    "target": "ESNext",
+    "module": "commonjs"
+  }
+}
