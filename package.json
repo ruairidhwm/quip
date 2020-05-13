@@ -1,8 +1,19 @@
 {
   "name": "quip",
+  "description": "Build your own Jest",
+  "keywords": [
+    "jest",
+    "tdd",
+    "testing",
+    "jest-clone"
+  ],
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "author": {
+    "name": "Ruairidh Wynne-McHardy",
+    "url": "https://ruairidh.dev"
+  },
   "scripts": {
     "build": "babel src --out-dir dist",
     "check-types": "tsc",
