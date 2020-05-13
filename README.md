@@ -2,7 +2,7 @@
 
 _A small version of Jest_
 
-Read the blog [here](#).
+Read the blog [here](https://ruairidh.dev/building-a-jest-clone/).
 
 ## Methods
 
